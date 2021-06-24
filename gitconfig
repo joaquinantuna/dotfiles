@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joaquinantuna@gmail.com
+	name = Joaquín Antuña
